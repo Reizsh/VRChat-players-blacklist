@@ -55,7 +55,7 @@ You need to submit an appeal in **Issues** of this repository.
 2. Write the title "Appeal to remove a player from the blacklist".
 3. Select the "**appeal**" label.
 4. First, **write the player ID and the reason for being blacklisted**.
-5. Write, why this player did what he was blacklisted for.
+5. Write, why this player did what he was for blacklisted.
 6. **Check the correct spelling of issue** and submit it.
 
 ---
