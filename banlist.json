@@ -655,5 +655,14 @@
         "date": "2026-06-16",
         "expires": "null",
         "appeal": "y"
+    },
+    {
+        "id": "usr_f961a295-a81b-44de-8935-cc1c325fb75e",
+        "name": "Ghost_small",
+        "type": "kick",
+        "reason": "Muted for no reason",
+        "date": "2026-06-16",
+        "expires": "null",
+        "appeal": "y"
     }
 ]
