@@ -664,5 +664,14 @@
         "date": "2026-06-16",
         "expires": "null",
         "appeal": "y"
+    },
+    {
+        "id": "usr_f37b6b76-6f2c-4407-a84b-d0ec592745b3",
+        "name": "Nessi?",
+        "type": "kick",
+        "reason": "Muted for no reason",
+        "date": "2026-06-16",
+        "expires": "null",
+        "appeal": "y"
     }
 ]
