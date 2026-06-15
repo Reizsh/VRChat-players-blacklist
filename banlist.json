@@ -646,5 +646,14 @@
         "date": "2026-06-16",
         "expires": "null",
         "appeal": "y"
+    },
+    {
+        "id": "usr_eb7544b4-7868-4dd3-b516-d44af0f5ac26",
+        "name": "Funvar",
+        "type": "kick",
+        "reason": "Muted for no reason",
+        "date": "2026-06-16",
+        "expires": "null",
+        "appeal": "y"
     }
 ]
