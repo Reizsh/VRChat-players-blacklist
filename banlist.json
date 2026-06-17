@@ -673,5 +673,14 @@
         "date": "2026-06-16",
         "expires": "null",
         "appeal": "y"
+    },
+    {
+        "id": "usr_5857b4ae-dee3-499a-8383-d18e8b5f08dc",
+        "name": "Banbinos",
+        "type": "kick",
+        "reason": "Muted for no reason",
+        "date": "2026-06-18",
+        "expires": "null",
+        "appeal": "y"
     }
 ]
