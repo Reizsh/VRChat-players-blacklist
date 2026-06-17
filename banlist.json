@@ -682,5 +682,32 @@
         "date": "2026-06-18",
         "expires": "null",
         "appeal": "y"
+    },
+    {
+        "id": "usr_0ae7aa21-7a18-4ee5-b44e-08a3ddc3fa6b",
+        "name": "~Tomoe",
+        "type": "ban",
+        "reason": "Propaganda of malware/spyware",
+        "date": "2026-06-18",
+        "expires": "null",
+        "appeal": "n"
+    },
+    {
+        "id": "usr_7003ca90-4bf5-4978-99ae-08a31bf6d3b4",
+        "name": "bekap_1",
+        "type": "ban",
+        "reason": "Propaganda of malware/spyware",
+        "date": "2026-06-18",
+        "expires": "null",
+        "appeal": "n"
+    },
+    {
+        "id": "usr_6bb7b8f8-25f4-423c-9d6f-b180a839fee8",
+        "name": "Maksytko",
+        "type": "ban",
+        "reason": "Propaganda of malware/spyware",
+        "date": "2026-06-18",
+        "expires": "null",
+        "appeal": "n"
     }
 ]
